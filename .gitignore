@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+
+# Compiled Python files
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+
+# VS Code settings
+.vscode/
