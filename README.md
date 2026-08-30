@@ -1,6 +1,5 @@
 # 🐍 Snake Game in Python
 
-🙏 **JAI SHREE RADHEKRISHN** 🤗😇
 
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![Pygame](https://img.shields.io/badge/Library-Pygame-green)
